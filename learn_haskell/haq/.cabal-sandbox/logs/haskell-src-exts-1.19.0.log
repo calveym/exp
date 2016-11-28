@@ -1,0 +1,5 @@
+cabal: Entering directory '/var/folders/jr/fxbzfdr93t55nss4llgwbxtm0000gn/T/cabal-tmp-56274/haskell-src-exts-1.19.0'
+Configuring haskell-src-exts-1.19.0...
+cabal.real: The program 'happy' version >=1.19 is required but it could not be
+found.
+cabal: Leaving directory '/var/folders/jr/fxbzfdr93t55nss4llgwbxtm0000gn/T/cabal-tmp-56274/haskell-src-exts-1.19.0'

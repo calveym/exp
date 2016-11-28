@@ -1,0 +1,69 @@
+cabal: Entering directory '/var/folders/jr/fxbzfdr93t55nss4llgwbxtm0000gn/T/cabal-tmp-50866/extra-1.5.1'
+Configuring extra-1.5.1...
+Building extra-1.5.1...
+Preprocessing library extra-1.5.1...
+[ 1 of 17] Compiling System.Info.Extra ( src/System/Info/Extra.hs, dist/dist-sandbox-57458922/build/System/Info/Extra.o )
+[ 2 of 17] Compiling System.Environment.Extra ( src/System/Environment/Extra.hs, dist/dist-sandbox-57458922/build/System/Environment/Extra.o )
+[ 3 of 17] Compiling Numeric.Extra    ( src/Numeric/Extra.hs, dist/dist-sandbox-57458922/build/Numeric/Extra.o )
+[ 4 of 17] Compiling Data.Typeable.Extra ( src/Data/Typeable/Extra.hs, dist/dist-sandbox-57458922/build/Data/Typeable/Extra.o )
+[ 5 of 17] Compiling Data.Tuple.Extra ( src/Data/Tuple/Extra.hs, dist/dist-sandbox-57458922/build/Data/Tuple/Extra.o )
+[ 6 of 17] Compiling Data.List.Extra  ( src/Data/List/Extra.hs, dist/dist-sandbox-57458922/build/Data/List/Extra.o )
+[ 7 of 17] Compiling Data.Version.Extra ( src/Data/Version/Extra.hs, dist/dist-sandbox-57458922/build/Data/Version/Extra.o )
+[ 8 of 17] Compiling Data.IORef.Extra ( src/Data/IORef/Extra.hs, dist/dist-sandbox-57458922/build/Data/IORef/Extra.o )
+[ 9 of 17] Compiling Data.Either.Extra ( src/Data/Either/Extra.hs, dist/dist-sandbox-57458922/build/Data/Either/Extra.o )
+[10 of 17] Compiling Control.Monad.Extra ( src/Control/Monad/Extra.hs, dist/dist-sandbox-57458922/build/Control/Monad/Extra.o )
+[11 of 17] Compiling System.Directory.Extra ( src/System/Directory/Extra.hs, dist/dist-sandbox-57458922/build/System/Directory/Extra.o )
+[12 of 17] Compiling Control.Exception.Extra ( src/Control/Exception/Extra.hs, dist/dist-sandbox-57458922/build/Control/Exception/Extra.o )
+[13 of 17] Compiling System.Time.Extra ( src/System/Time/Extra.hs, dist/dist-sandbox-57458922/build/System/Time/Extra.o )
+[14 of 17] Compiling Control.Concurrent.Extra ( src/Control/Concurrent/Extra.hs, dist/dist-sandbox-57458922/build/Control/Concurrent/Extra.o )
+[15 of 17] Compiling System.IO.Extra  ( src/System/IO/Extra.hs, dist/dist-sandbox-57458922/build/System/IO/Extra.o )
+[16 of 17] Compiling System.Process.Extra ( src/System/Process/Extra.hs, dist/dist-sandbox-57458922/build/System/Process/Extra.o )
+[17 of 17] Compiling Extra            ( src/Extra.hs, dist/dist-sandbox-57458922/build/Extra.o )
+[ 1 of 17] Compiling System.Info.Extra ( src/System/Info/Extra.hs, dist/dist-sandbox-57458922/build/System/Info/Extra.p_o )
+[ 2 of 17] Compiling System.Environment.Extra ( src/System/Environment/Extra.hs, dist/dist-sandbox-57458922/build/System/Environment/Extra.p_o )
+[ 3 of 17] Compiling Numeric.Extra    ( src/Numeric/Extra.hs, dist/dist-sandbox-57458922/build/Numeric/Extra.p_o )
+[ 4 of 17] Compiling Data.Typeable.Extra ( src/Data/Typeable/Extra.hs, dist/dist-sandbox-57458922/build/Data/Typeable/Extra.p_o )
+[ 5 of 17] Compiling Data.Tuple.Extra ( src/Data/Tuple/Extra.hs, dist/dist-sandbox-57458922/build/Data/Tuple/Extra.p_o )
+[ 6 of 17] Compiling Data.List.Extra  ( src/Data/List/Extra.hs, dist/dist-sandbox-57458922/build/Data/List/Extra.p_o )
+[ 7 of 17] Compiling Data.Version.Extra ( src/Data/Version/Extra.hs, dist/dist-sandbox-57458922/build/Data/Version/Extra.p_o )
+[ 8 of 17] Compiling Data.IORef.Extra ( src/Data/IORef/Extra.hs, dist/dist-sandbox-57458922/build/Data/IORef/Extra.p_o )
+[ 9 of 17] Compiling Data.Either.Extra ( src/Data/Either/Extra.hs, dist/dist-sandbox-57458922/build/Data/Either/Extra.p_o )
+[10 of 17] Compiling Control.Monad.Extra ( src/Control/Monad/Extra.hs, dist/dist-sandbox-57458922/build/Control/Monad/Extra.p_o )
+[11 of 17] Compiling System.Directory.Extra ( src/System/Directory/Extra.hs, dist/dist-sandbox-57458922/build/System/Directory/Extra.p_o )
+[12 of 17] Compiling Control.Exception.Extra ( src/Control/Exception/Extra.hs, dist/dist-sandbox-57458922/build/Control/Exception/Extra.p_o )
+[13 of 17] Compiling System.Time.Extra ( src/System/Time/Extra.hs, dist/dist-sandbox-57458922/build/System/Time/Extra.p_o )
+[14 of 17] Compiling Control.Concurrent.Extra ( src/Control/Concurrent/Extra.hs, dist/dist-sandbox-57458922/build/Control/Concurrent/Extra.p_o )
+[15 of 17] Compiling System.IO.Extra  ( src/System/IO/Extra.hs, dist/dist-sandbox-57458922/build/System/IO/Extra.p_o )
+[16 of 17] Compiling System.Process.Extra ( src/System/Process/Extra.hs, dist/dist-sandbox-57458922/build/System/Process/Extra.p_o )
+[17 of 17] Compiling Extra            ( src/Extra.hs, dist/dist-sandbox-57458922/build/Extra.p_o )
+Running Haddock for extra-1.5.1...
+Preprocessing library extra-1.5.1...
+Haddock coverage:
+ 100% (  4 /  4) in 'System.Info.Extra'
+ 100% (  4 /  4) in 'System.Environment.Extra'
+ 100% (  7 /  7) in 'Numeric.Extra'
+ 100% (  5 /  5) in 'Data.Typeable.Extra'
+ 100% ( 14 / 14) in 'Data.Tuple.Extra'
+ 100% ( 60 / 60) in 'Data.List.Extra'
+ 100% (  4 /  4) in 'Data.Version.Extra'
+ 100% (  7 /  7) in 'Data.IORef.Extra'
+ 100% ( 11 / 11) in 'Data.Either.Extra'
+ 100% ( 29 / 29) in 'Control.Monad.Extra'
+ 100% (  7 /  7) in 'System.Directory.Extra'
+ 100% ( 19 / 19) in 'Control.Exception.Extra'
+ 100% (  9 /  9) in 'System.Time.Extra'
+ 100% ( 27 / 27) in 'Control.Concurrent.Extra'
+ 100% ( 24 / 24) in 'System.IO.Extra'
+ 100% (  5 /  5) in 'System.Process.Extra'
+ 100% (220 /220) in 'Extra'
+Warning: Data.Typeable.Extra: could not find link destinations for:
+    ~ unsafeIndex unsafeRangeSize
+Warning: Extra: could not find link destinations for:
+    ~ unsafeIndex unsafeRangeSize
+Documentation created: dist/dist-sandbox-57458922/doc/html/extra/index.html
+Creating package registration file:
+/var/folders/jr/fxbzfdr93t55nss4llgwbxtm0000gn/T/pkgConf-extra-1.52020739063107554536.1
+Installing library in
+/Users/michaelcalvey/code/exp/learn_haskell/haq/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.1/extra-1.5.1-HeeVckCVl1V9DE6lYqg83I
+Registering extra-1.5.1...
+cabal: Leaving directory '/var/folders/jr/fxbzfdr93t55nss4llgwbxtm0000gn/T/cabal-tmp-50866/extra-1.5.1'

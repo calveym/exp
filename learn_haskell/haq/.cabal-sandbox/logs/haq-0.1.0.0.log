@@ -1,0 +1,12 @@
+cabal: Entering directory '.'
+Configuring haq-0.1.0.0...
+Building haq-0.1.0.0...
+Preprocessing executable 'haq' for haq-0.1.0.0...
+[1 of 1] Compiling Main             ( Main.hs, dist/dist-sandbox-57458922/build/haq/haq-tmp/Main.o )
+
+Main.hs:5:28: error:
+    • No instance for (Num String) arising from a use of ‘doubleMe’
+    • In the first argument of ‘(.)’, namely ‘doubleMe’
+      In the second argument of ‘(.)’, namely ‘doubleMe . head’
+      In the second argument of ‘(>>=)’, namely ‘print . doubleMe . head’
+cabal: Leaving directory '.'

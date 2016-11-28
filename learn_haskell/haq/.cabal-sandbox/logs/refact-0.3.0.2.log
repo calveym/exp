@@ -1,0 +1,19 @@
+cabal: Entering directory '/var/folders/jr/fxbzfdr93t55nss4llgwbxtm0000gn/T/cabal-tmp-50870/refact-0.3.0.2'
+Configuring refact-0.3.0.2...
+Building refact-0.3.0.2...
+Preprocessing library refact-0.3.0.2...
+[1 of 1] Compiling Refact.Types     ( src/Refact/Types.hs, dist/dist-sandbox-57458922/build/Refact/Types.o )
+[1 of 1] Compiling Refact.Types     ( src/Refact/Types.hs, dist/dist-sandbox-57458922/build/Refact/Types.p_o )
+Running Haddock for refact-0.3.0.2...
+Preprocessing library refact-0.3.0.2...
+Haddock coverage:
+  75% (  3 /  4) in 'Refact.Types'
+  Missing documentation for:
+    Module header
+Documentation created: dist/dist-sandbox-57458922/doc/html/refact/index.html
+Creating package registration file:
+/var/folders/jr/fxbzfdr93t55nss4llgwbxtm0000gn/T/pkgConf-refact-0.3.01075260298824938981.2
+Installing library in
+/Users/michaelcalvey/code/exp/learn_haskell/haq/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.1/refact-0.3.0.2-JBbxaqExt5tJMSfYCjPwkx
+Registering refact-0.3.0.2...
+cabal: Leaving directory '/var/folders/jr/fxbzfdr93t55nss4llgwbxtm0000gn/T/cabal-tmp-50870/refact-0.3.0.2'
